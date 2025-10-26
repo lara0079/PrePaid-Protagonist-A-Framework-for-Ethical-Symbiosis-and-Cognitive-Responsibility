@@ -29,7 +29,7 @@ The full CEOS research manuscript is publicly available on **Zenodo**, with over
 ## 🤝 Contact  
 For collaboration or research inquiries, please contact:  
 **Maria Kollia**  
-📧 ceos.ethics.project@gmail.com  
+📧 karnw79@gmail.com 
 
 ---
 
