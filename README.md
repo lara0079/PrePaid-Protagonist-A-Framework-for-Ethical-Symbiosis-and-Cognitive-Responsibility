@@ -24,7 +24,8 @@ CEOS connects to AI models as an embedded ethical module that performs:
 
 ## 📄 Access  
 The full CEOS research manuscript is publicly available on **Zenodo**, with over 45 downloads from international researchers:  
-👉 [https://zenodo.org/records/YOUR_CEOS_LINK](https://zenodo.org/records/YOUR_CEOS_LINK)
+
+https://doi.org/10.5281/zenodo.17350376
 
 ## 🤝 Contact  
 For collaboration or research inquiries, please contact:  
